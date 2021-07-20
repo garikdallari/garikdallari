@@ -16,3 +16,7 @@
 ![React](https://img.shields.io/badge/-React-554455?style=for-the-badge&logo=React&logoColor=00648B)
 ![Node](https://img.shields.io/badge/-Node-554455?style=for-the-badge&logo=Node&logoColor=E5D3FF)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-554455?style=for-the-badge&logo=ReactNative&logoColor=F88C00)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garikdallari&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garikdallari&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
