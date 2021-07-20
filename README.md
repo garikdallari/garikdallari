@@ -1,1 +1,1 @@
-## Hi! My name is Garik. I am beginner Full-Stack Developer
+## Hi! My name is Garik. I am beginner Full-Stack Developer 👨‍💻
